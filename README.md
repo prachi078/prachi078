@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Prachi Patil</h1>
+<h1 align="center">Hi 👋, I'm Prachi Patil.</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/559/55911.gif">
 
